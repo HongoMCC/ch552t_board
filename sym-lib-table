@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ch552")(type "KiCad")(uri "${KIPRJMOD}/ch552.kicad_sym")(options "")(descr ""))
+  (lib (name "mcc_logo")(type "KiCad")(uri "${KIPRJMOD}/mcc_logo.kicad_sym")(options "")(descr ""))
+)
